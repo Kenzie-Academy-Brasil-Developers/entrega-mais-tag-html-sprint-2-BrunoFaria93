@@ -59,7 +59,10 @@ body{
     margin-left: 30%;    
 }
 #pikachu{
-    height: 550px;
-    width: 505px;
-    margin-left: 1300px;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    left: 1150px;
+    bottom: 0px;
+    
 }
